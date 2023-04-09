@@ -1,0 +1,35 @@
+Introduction:
+
+The purpose of this report is to provide a final overview of the development of a pictorial database of plants in LPU, along with the implementation of QR codes containing species details. This project was initiated to create a comprehensive record of the plant species found on the university campus and to provide students and visitors with an interactive way to learn about the various species of plants.
+
+Project Objectives:
+
+The objectives of this project were as follows:
+
+To create a pictorial database of all the plant species found on the LPU campus.
+
+To develop a mobile application that allows students and visitors to scan QR codes placed next to the plants and access information about the species.
+
+To improve the overall understanding of plant species and their importance among the LPU community.
+
+Methodology:
+
+The project was carried out in several stages. The first stage involved the identification and documentation of all the plant species present on the campus. This was done by a team of botanists and researchers who visited the campus and conducted a detailed survey.
+
+The second stage involved the creation of a pictorial database. This was done by taking high-quality photographs of each plant species and compiling them into a database.
+
+The third stage involved the development of a mobile application that allows users to scan QR codes placed next to the plants and access information about the species. This information includes the common name, scientific name, habitat, and other relevant details.
+
+Results:
+
+The project was completed successfully, and the following outcomes were achieved:
+
+A comprehensive pictorial database of all the plant species found on the LPU campus was created.
+
+A mobile application was developed that allows students and visitors to scan QR codes placed next to the plants and access information about the species.
+
+The project has significantly improved the overall understanding of plant species and their importance among the LPU community.
+
+Conclusion:
+
+In conclusion, the development of a pictorial database of plants in LPU, along with the implementation of QR codes containing species details, has been a successful project. The project has improved the overall understanding of plant species among the LPU community and has provided an interactive way for students and visitors to learn about the various species of plants on the campus. The project is expected to have a lasting impact on the campus, and its success can be attributed to the dedication and hard work of the team involved in its implementation.

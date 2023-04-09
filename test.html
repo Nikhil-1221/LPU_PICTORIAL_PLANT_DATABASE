@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Plant Details Database</title>
+    <link rel="stylesheet" href="test.css">
+  </head>
+  <body>
+    <header>
+      <h1>Plant Details Database</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Plants</a></li>
+          <li><a href="#">Add Plant</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section>
+        <h2>Plants List</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Type</th>
+              <th>Watering Frequency</th>
+              <th>Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Plant 1</td>
+              <td>Type 1</td>
+              <td>Weekly</td>
+              <td>Notes about plant 1</td>
+            </tr>
+            <tr>
+              <td>Plant 2</td>
+              <td>Type 2</td>
+              <td>Every other day</td>
+              <td>Notes about plant 2</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+      <section>
+        <h2>Add Plant</h2>
+        <form>
+          <label for="name">Name:</label>
+          <input type="text" id="name" name="name"><br>
+          <label for="type">Type:</label>
+          <input type="text" id="type" name="type"><br>
+          <label for="frequency">Watering Frequency:</label>
+          <select id="frequency" name="frequency">
+            <option value="daily">Daily</option>
+            <option value="weekly">Weekly</option>
+            <option value="monthly">Monthly</option>
+          </select><br>
+          <label for="notes">Notes:</label><br>
+          <textarea id="notes" name="notes"></textarea><br>
+          <input type="submit" value="Add Plant">
+        </form>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright © Plant Details Database.
+    </footer>
+  </body>
+</html>
